@@ -43,6 +43,14 @@ vim src/settings.yaml
 ./main.py
 ```
 
+### test and development
+
+For testing it is possible to get only one update on the weather information and
+the generated image is stored on the filesystem:
+
+```
+./main.py -e
+```
 
 # links
 
