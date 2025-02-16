@@ -1,0 +1,5 @@
+weatherdisplay:
+  lat: 49.872826
+  lon: 8.651193
+  updateInterval: 60
+  
