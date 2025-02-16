@@ -7,27 +7,40 @@ Display weather information on an Inky Impression 7.3" (7 colour ePaper) from pi
 
 ### start python virtual environment
 
-> source .venv/bin/activate
+```
+source .venv/bin/activate
+```
 
 ### install dependencies
 
-> python3 -m pip install -r requirements.txt
+```
+python3 -m pip install -r requirements.txt
+```
 
 ### install open meteo python library
 
-> pip install git+https://github.com/m0rp43us/openmeteopy
+```
+pip install git+https://github.com/m0rp43us/openmeteopy
+```
 
 ### edit configuration file
 
-> vim src/settings.yaml
+```
+vim src/settings.yaml
+```
 
 ### run display
 
-> ./main.py
+```
+./main.py
+```
 
 
 # links
 
-https://open-meteo.com
-https://github.com/pimoroni/inky
-https://github.com/m0rp43us/openmeteopy/tree/main
+[Open Meteo](https://open-meteo.com)
+
+[inky python library](https://github.com/pimoroni/inky)
+
+[open meteo python library](https://github.com/m0rp43us/openmeteopy/tree/main)
+
