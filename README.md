@@ -2,6 +2,8 @@
 
 Display weather information on an Inky Impression 7.3" (7 colour ePaper) from pimorini.
 
+(https://github.com/goeflo/weather-impression/blob/main/display.jpg)
+
 
 ## howto setup
 
