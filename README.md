@@ -5,7 +5,13 @@ Display weather information on an Inky Impression 7.3" (7 colour ePaper) from pi
 
 ## howto setup
 
-### start python virtual environment
+### create a python virtual environment
+
+```
+python -m venv .venv
+```
+
+### activate python virtual environment
 
 ```
 source .venv/bin/activate
